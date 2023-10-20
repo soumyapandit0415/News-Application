@@ -1,4 +1,7 @@
 # News-Application
+
+# App Name: GlobalHub
+
 In a news application, sections or categories like _"World," "Business," "Health," "Sports,"_ and _"Tech"_ represent different thematic areas or topics of news content. 
 
 _**Here's a brief description of each section:**_
