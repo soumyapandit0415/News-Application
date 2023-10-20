@@ -62,3 +62,19 @@ Tech News:
 
 As there aren't any tech news available, the app keeps bufferning until it gets tech related news from API.
 
+**Data Structure:**
+
+**newsData (useState)**: Data is fetched from an external source using the services('general') function and stored in the newsData state variable. It represents an array of news articles.
+
+**FlatList (from NativeBaseProvider):** The FlatList component is used to render and display a list of news articles. It takes the newsData array as its data source.
+
+**JavaScript Objects (item):** The individual news articles are represented as JavaScript objects with properties like title, publishedAt, description, and urlToImage. These objects are part of the newsData array.
+
+**Styles (styles object):** The styles object is used to define various styles for elements in the UI, including the news container, title, description, date, and spinner.
+
+**Constants (grey, yellow):** The grey and yellow constants store RGB color values used for styling various components in the UI.
+
+The useEffect hook is used to fetch news data when the component mounts, and the data is subsequently displayed using the FlatList component. If there is no data yet (i.e., newsData is empty), a spinner is displayed to indicate that the data is being loaded.
+
+Overall, the code primarily relies on arrays and objects to represent and manage news data and uses style objects for UI styling. It also utilizes components provided by NativeBase for UI rendering and styling.
+
