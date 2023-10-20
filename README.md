@@ -29,4 +29,36 @@ At the bottom of the phone screen, we have 5 sections. Select any one of the sec
 
 
 
+
 Screenshots:
+
+Login Page:
+
+![IMG-20231020-WA0019](https://github.com/soumyapandit0415/News-Application/assets/91374416/084be733-9e56-47f5-849e-23ccff38da4c)
+
+World News:
+
+![IMG-20231020-WA0020](https://github.com/soumyapandit0415/News-Application/assets/91374416/a3f601c7-0fd5-4d3b-8b47-22e8d4abc770)
+![IMG-20231020-WA0021](https://github.com/soumyapandit0415/News-Application/assets/91374416/be61c41e-b3cc-4f1a-8e47-a72a34a52965)
+
+Business News:
+
+![IMG-20231020-WA0022](https://github.com/soumyapandit0415/News-Application/assets/91374416/beb782c8-a8ff-428b-845b-ae7977db53da)
+![IMG-20231020-WA0023](https://github.com/soumyapandit0415/News-Application/assets/91374416/d15ab7cf-1f5d-4141-b990-5dee9431322e)
+
+Health News:
+
+![IMG-20231020-WA0024](https://github.com/soumyapandit0415/News-Application/assets/91374416/1e88ba32-2813-4499-b82f-3b2f60c6c1f4)
+![IMG-20231020-WA0025](https://github.com/soumyapandit0415/News-Application/assets/91374416/4ae17e5d-0c38-445d-8b22-ca42b85ddf6b)
+
+Sports News:
+
+![IMG-20231020-WA0026](https://github.com/soumyapandit0415/News-Application/assets/91374416/d1e0a82b-1eb3-4b80-b5b6-23f11b01dc52)
+![IMG-20231020-WA0027](https://github.com/soumyapandit0415/News-Application/assets/91374416/b5a1d2e2-ee61-42d6-bfe9-f69f00007904)
+
+Tech News:
+
+![IMG-20231020-WA0028](https://github.com/soumyapandit0415/News-Application/assets/91374416/ca194d95-c662-45ee-85eb-4a0e7d744d84)
+
+As there aren't any tech news available, the app keeps bufferning until it gets tech related news from API.
+
